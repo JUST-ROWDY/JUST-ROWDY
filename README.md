@@ -22,8 +22,8 @@ Hi there! My name is Rowdy . My age is 15 and My Birth Date was September 17,200
 
 <p align="left">
 <a href="https://github.com/JUST-ROWDY">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Just-Msv&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Just-Msv&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JUST-ROWDY&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JUST-MSV&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
