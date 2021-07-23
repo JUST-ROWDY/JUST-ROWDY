@@ -1,4 +1,4 @@
-## Hello!, I'm [Rowdy!](https://github.com/Just-Msv/)
+## Hello!, I'm [Rowdy!](https://github.com/JUST-ROWDY/)
 
 <img align="right" height="128" width="128" alt="" src="https://images-ext-2.discordapp.net/external/yvnRLYNa1b2Yb6kSXZimZqz2-DMIkTUJWwqEbpeQPuA/%3Fwidth%3D427%26height%3D427/https/media.discordapp.net/attachments/855801265136599061/855859703514660924/image0.gif?width=384&height=384" />
 
@@ -7,7 +7,7 @@
 
 ### Welcome to my github repository! I'm glad to see you here!
 
-Hi there! My name is Msv . My age is 15 and My Birth Date was September 17,2006. I lived in the Warangal and I'm 10th year from Sri Chaitanya in Hyderabad. I code all of my bots in JS ,PY since that's the language that I'm most familiar with and not a lot of other developers use python so I wanted to standout!
+Hi there! My name is Msv . My age is 15 and My Birth Date was September 17,2006. I lived in the Hyderabad and I'm 10th year from Sri Chaitanya in Hyderabad. I code all of my bots in JS ,PY since that's the language that I'm most familiar with and not a lot of other developers use python so I wanted to standout!
 
 
 ### Languages and Tools:
