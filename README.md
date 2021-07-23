@@ -2,8 +2,8 @@
 
 <img align="right" height="128" width="128" alt="" src="https://cdn.discordapp.com/attachments/849939952421961748/868080392811470908/856567242739941457.gif" />
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/X3Mf8VXD9S)
-&nbsp; ![](https://komarev.com/ghpvc/?username=Just-Msv&label=Views&color=blue&style=plastic)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/mmDphpVjru)
+&nbsp; ![](https://komarev.com/ghpvc/?username=JUST-ROWDY&label=Views&color=blue&style=plastic)
 
 ### Welcome to my github repository! I'm glad to see you here!
 
