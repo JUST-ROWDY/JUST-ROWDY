@@ -1,13 +1,13 @@
 ## Hello!, I'm [Rowdy!](https://github.com/JUST-ROWDY/)
 
-<img align="right" height="128" width="128" alt="" src="https://images-ext-2.discordapp.net/external/yvnRLYNa1b2Yb6kSXZimZqz2-DMIkTUJWwqEbpeQPuA/%3Fwidth%3D427%26height%3D427/https/media.discordapp.net/attachments/855801265136599061/855859703514660924/image0.gif?width=384&height=384" />
+<img align="right" height="128" width="128" alt="" src="https://images-ext-2.discordapp.net/external/yvnRLYNa1b2Yb6kSXZimZqz2-DMIkTUJWwqEbpeQPuA/%3Fwidth%3D427%26height%3D427/https://cdn.discordapp.com/attachments/849939952421961748/868080392811470908/856567242739941457.gif" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/X3Mf8VXD9S)
 &nbsp; ![](https://komarev.com/ghpvc/?username=Just-Msv&label=Views&color=blue&style=plastic)
 
 ### Welcome to my github repository! I'm glad to see you here!
 
-Hi there! My name is Msv . My age is 15 and My Birth Date was September 17,2006. I lived in the Hyderabad and I'm 10th year from Sri Chaitanya in Hyderabad. I code all of my bots in JS ,PY since that's the language that I'm most familiar with and not a lot of other developers use python so I wanted to standout!
+Hi there! My name is Rowdy . My age is 15 and My Birth Date was September 17,2006. I lived in the Hyderabad and I'm 10th year from Sri Chaitanya in Hyderabad. I code all of my bots in JS ,PY since that's the language that I'm most familiar with and not a lot of other developers use python so I wanted to standout!
 
 
 ### Languages and Tools:
