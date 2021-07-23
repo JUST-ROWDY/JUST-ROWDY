@@ -1,6 +1,6 @@
 ## Hello!, I'm [Rowdy!](https://github.com/JUST-ROWDY/)
 
-<img align="right" height="128" width="128" alt="" src="https://images-ext-2.discordapp.net/external/yvnRLYNa1b2Yb6kSXZimZqz2-DMIkTUJWwqEbpeQPuA/%3Fwidth%3D427%26height%3D427/https://cdn.discordapp.com/attachments/849939952421961748/868080392811470908/856567242739941457.gif" />
+<img align="right" height="128" width="128" alt="" src="https://cdn.discordapp.com/attachments/849939952421961748/868080392811470908/856567242739941457.gif" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/X3Mf8VXD9S)
 &nbsp; ![](https://komarev.com/ghpvc/?username=Just-Msv&label=Views&color=blue&style=plastic)
