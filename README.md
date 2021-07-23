@@ -41,3 +41,8 @@ Pen and touch    No pen or touch input is available for this display
 - Stay posted in my [Discord!](https://discord.gg/mmDphpVjru)
 
 ---
+
+### 🔗 MY SOCIAL MEDIA LINKS:
+<a href="https://instagram.com/thoshanthreddy_1709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thoshanthreddy_1709" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/mmDphpVjru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/mmDphpVjru" height="30" width="40" /></a>
+</p>
